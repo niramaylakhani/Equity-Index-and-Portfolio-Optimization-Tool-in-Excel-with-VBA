@@ -48,6 +48,7 @@ This Excel-based project constructs a custom market-cap weighted equity index an
 ## 📁 Files Included
 
 - `Project 2.xlsm` – Excel workbook with calculations and VBA macros
+- `Project 2.xlsm` – Excel workbook with calculations and VBA macros
 
 ---
 
