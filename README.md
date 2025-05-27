@@ -47,7 +47,7 @@ This Excel-based project constructs a custom market-cap weighted equity index an
 
 ## 📁 Files Included
 
-- `Project 2.xlsm` – Excel workbook with calculations and VBA macros
+- `Equity Index and Portfolio Optimization Tool Project Instructions.pdf` – Instructions for the Project
 - `Project 2.xlsm` – Excel workbook with calculations and VBA macros
 
 ---
