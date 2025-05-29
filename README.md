@@ -48,8 +48,9 @@ This Excel-based project constructs a custom market-cap weighted equity index an
 ## 📁 Files Included
 
 - `EIPOT Project Instructions.pdf` – Instructions for the Project
-- `Equity Index and Portfolio Optimization Tool in Excel with VBA.xlsm` – Excel workbook with calculations and VBA macros
 - `EIPOT Project.pdf` – PDF Version of the Project
+- `Equity Index and Portfolio Optimization Tool in Excel with VBA.xlsm` – Excel workbook with calculations and VBA macros
+
 ---
 
 ## 👨‍💻 Author
